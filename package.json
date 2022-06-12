@@ -1,0 +1,20 @@
+{
+  "name": "gitb",
+  "version": "1.0.0",
+  "description": "*作为被引入的库--2022/06/12*",
+  "main": "2205310156.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youyou12344/gitB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youyou12344/gitB/issues"
+  },
+  "homepage": "https://github.com/youyou12344/gitB#readme"
+}
